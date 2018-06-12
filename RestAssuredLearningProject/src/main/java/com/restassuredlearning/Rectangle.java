@@ -4,8 +4,8 @@ import java.io.Serializable;
 
 public class Rectangle implements Serializable{
 
-	int Height=50;
-	int Width=30;
+	int Height=500;
+	int Width=300;
 	
 	
 	public int calculateArea()
