@@ -37,7 +37,7 @@ public class SerializingObject {
 		SerializingObject sobject=new SerializingObject();
 		Rectangle state=(Rectangle) sobject.deserializableObject();
 		state.print();
-		System.out.println();
+		System.out.println("new branch is created");
 	}
 	
 }
